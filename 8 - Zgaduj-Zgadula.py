@@ -28,4 +28,4 @@ while continues == 'T' or continues == 't' or continues == 'Y' or continues == '
     if int(ans) == secretNum:
         print('Congratulations! Secret number was: ' + str(secretNum) + '.')
     print('Would you like play once again? [T/N]')
-continues = input()
+    continues = input()
