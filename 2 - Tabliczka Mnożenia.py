@@ -1,5 +1,3 @@
-#!usr/bin/python3
-
 print('Tabliczka mnozenia\n')
 
 for i in range(1, 11):
