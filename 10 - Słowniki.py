@@ -26,3 +26,6 @@ for i in birthdays.keys():
 print('.')
 for i in birthdays.items():
     print(i)
+print('.')
+for v, k in birthdays.items():
+    print('Key: ' + k + ', value: ' + v)
