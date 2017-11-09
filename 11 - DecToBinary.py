@@ -5,7 +5,7 @@ num_temp = num
 end_string = ''
 
 while num_temp > 1:
-    next_num = num_temp%2
+    next_num = num_temp % 2
     end_string = end_string + str(next_num)
     num_temp = int((num_temp-next_num)/2)
 
