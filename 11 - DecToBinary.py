@@ -12,6 +12,6 @@ while num_temp > 1:
 if num_temp == 1:
     end_string = end_string + '1'
 
-print('Your number is: ' + str(num))
+print('Your number: ' + str(num))
 print('In binary system it is: ' + end_string[::-1])
 
