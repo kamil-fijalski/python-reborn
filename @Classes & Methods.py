@@ -20,7 +20,7 @@ class Rectangle(object):
         self.color = color
 
 
-FirstCircle = Circle(10, "red")
+FirstCircle = Circle(100, "red")
 SecondCircle = Circle(50, "blue")
 SecondCircle.color = "green"
 
